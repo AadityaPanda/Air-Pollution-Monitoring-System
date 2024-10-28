@@ -1,7 +1,3 @@
-Here's a sample README file for your IoT-based air pollution monitoring system project on GitHub:
-
----
-
 # Air Pollution Monitoring System
 
 This project demonstrates an IoT-based air pollution monitoring system using the MQ135 air quality sensor. The system measures the air quality index (AQI) and displays the results on an LCD screen while providing visual and auditory alerts based on the AQI levels.
